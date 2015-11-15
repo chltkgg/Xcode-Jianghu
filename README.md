@@ -4,16 +4,21 @@
 
 --------
 
-##作者
+## 作者
 
 [星夜暮晨](https://github.com/SemperIdem)
 
 [S1NH](http://S1NH.com)
 
-##代码
+## 示例代码
 
-[CrazyBounce IOS](https://github.com/1-xing/CrazyBounce_IOS)
+[CrazyBounce Swift版本](https://github.com/SemperIdem/CrazyBounce-Swift)
 
-[CrazyBounce Android](https://github.com/1-xing/CrazyBounce_Android)
+[CrazyBounce Objective-C版本](https://github.com/SemperIdem/CrazyBounce-OC)
 
+## 更新日志
 
+**2015.11.15**：
+-----
+1. 初始提交
+2. 目前，CrazyBounce 的 Swift 版本更新了 iOS 和 OS 版本，Apple Watch 和 tvOS 版本正在计划中；Objective-C 的版本更新了 iOS 版本，其余版本仍在计划中！
