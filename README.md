@@ -18,9 +18,9 @@
 
 [杜承垚](http://S1NH.com)
 
-[卢力](http://weibo.com/u/2792429717)
-
 [胡雪婷](http://weibo.com/hanseyh?from=feed&loc=at&nick=H-ansey)
+
+[卢力](http://weibo.com/u/2792429717)
 
 ## 示例代码
 
@@ -29,6 +29,12 @@
 [CrazyBounce Objective-C版本](https://github.com/SemperIdem/CrazyBounce-OC)
 
 ## 免费章节
+
+### 我们提供并保持更新的版本：
+
+**2015.11.16**，目前适用于 Xcode 7.1
+
+[第一章 小试牛刀——Xcode 初体验](https://xcode-jianghu.gitbooks.io/xcode-jianghu/content/.Xcode江湖录/第一卷%20初入江湖%20——%20基础篇/第一章%20小试牛刀-Xcode初体验/Chapter1.html)
 
 ### 出版社提供的版本(适用于 Xcode 6)：
 
@@ -39,12 +45,6 @@
 [第二章 纵观全局 - 布局探索](http://images.china-pub.com/ebook4885001-4890000/4886856/ch02.pdf)
 
 [第三章 藏经阁-项目管理](http://images.china-pub.com/ebook4885001-4890000/4886856/ch03.pdf)
-
-### 我们提供并保持更新的版本：
-
-**2015.11.16**，目前适用于 Xcode 7.1
-
-[第一章 小试牛刀——Xcode 初体验](https://xcode-jianghu.gitbooks.io/xcode-jianghu/content/.Xcode江湖录/第一卷%20初入江湖%20——%20基础篇/第一章%20小试牛刀-Xcode初体验/Chapter1.html)
 
 ## 更新日志
 
